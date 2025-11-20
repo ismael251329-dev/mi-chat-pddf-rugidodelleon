@@ -1,8 +1,10 @@
 streamlit
-google-api-python-client
-google-auth
-langchain-google-genai
+firebase-admin
 langchain
-faiss-cpu
-PyPDF2
 langchain-community
+PyPDF2
+python-dotenv
+faiss-cpu
+openai
+tiktoken
+altair
