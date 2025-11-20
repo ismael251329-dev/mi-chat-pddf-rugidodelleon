@@ -5,7 +5,9 @@ langchain-core
 langchain-text-splitters
 langchain-google-genai
 chromadb
+pysqlite3-binary
 pypdf
 PyPDF2
 python-dotenv
 google-api-python-client
+typing-extensions
