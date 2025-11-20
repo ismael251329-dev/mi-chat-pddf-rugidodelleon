@@ -8,3 +8,4 @@ faiss-cpu
 openai
 tiktoken
 altair
+google-api-python-client
