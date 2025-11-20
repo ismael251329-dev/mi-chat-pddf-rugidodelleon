@@ -1,7 +1,9 @@
-streamlit
-firebase-admin
 langchain
 langchain-community
+langchain-core
+langchain-google-genai
+streamlit
+firebase-admin
 PyPDF2
 python-dotenv
 faiss-cpu
