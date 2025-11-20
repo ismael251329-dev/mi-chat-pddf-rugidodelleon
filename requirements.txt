@@ -4,5 +4,5 @@ google-auth
 langchain-google-genai
 langchain
 faiss-cpu
-pypdf
+PyPDF2
 langchain-community
