@@ -1,10 +1,9 @@
-lstreamlit
-openai
+streamlit
 langchain
 langchain-community
 langchain-core
 langchain-text-splitters
-langchain-openai
+langchain-google-genai
 chromadb
-tiktoken
 pypdf
+python-dotenv
