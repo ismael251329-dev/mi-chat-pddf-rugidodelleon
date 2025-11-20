@@ -7,3 +7,4 @@ langchain-google-genai
 chromadb
 pypdf
 python-dotenv
+google-api-python-client
