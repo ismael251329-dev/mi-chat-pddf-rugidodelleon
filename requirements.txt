@@ -11,3 +11,4 @@ openai
 tiktoken
 altair
 google-api-python-client
+langchain-text-splitters
