@@ -1,0 +1,8 @@
+streamlit
+google-api-python-client
+google-auth
+langchain-google-genai
+langchain
+faiss-cpu
+pypdf
+langchain-community
